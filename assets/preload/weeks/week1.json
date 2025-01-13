@@ -1,22 +1,32 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"kaboom-tricky",
+			"demoman",
+			[
+				106,
+				73,
+				0
+			]
+		]
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
 	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
+	"difficulties": "",
+	"weekCharacters": [
+		"demoman",
+		"",
+		"bf"
+	],
+	"storyName": "Tricky Sings Kaboom",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"startUnlocked": true
 }
